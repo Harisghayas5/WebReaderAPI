@@ -11,4 +11,7 @@ first, go here: https://ws.readspeaker.com/a/wasp/app/4 and Login.
 
 
 
-Alright!
+Alright! Now you will see that your API Key is generated automatically,
+
+
+![Untitled_cr](https://user-images.githubusercontent.com/89275769/138441290-4dd631cc-52fe-491f-b551-a8ebe54b48fc.jpg)
